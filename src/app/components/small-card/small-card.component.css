@@ -1,6 +1,6 @@
 .container__small-card{
     /* border: 1px solid white; */
-    width: 700px;
+    width: 500px;
     margin-bottom: 15px;
 }
 
@@ -13,6 +13,8 @@
     width: 200px;
     min-width: 200px;
     margin-right: 20px;
+    object-fit: cover;
+    object-position: center;
 }
 
 .small-card__title {
